@@ -18,9 +18,9 @@ This repository contains solutions of problems from different domains of `Hacker
 
 | Challenge Domain  | Languages 		 |
 | :-------------: | :-------------:  |
-| [10 Days of Javascript](https://github.com/ybg345/HackerRank/tree/master/10%20Days%20of%20Javascript)  | _JavaScript (Node.js)_  |
-| [10 Days of Statistics](https://github.com/ybg345/HackerRank/tree/master/10%20Days%20of%20Statistics)  | _Python 3_  |
-| [30 Days of Code](https://github.com/ybg345/HackerRank/tree/master/30%20Days%20of%20Code)  | _Python 3_  |
+| [Javascript](https://github.com/ybg345/HackerRank/tree/master/10%20Days%20of%20Javascript)  | _JavaScript (Node.js)_  |
+| [Statistics](https://github.com/ybg345/HackerRank/tree/master/10%20Days%20of%20Statistics)  | _Python 3_  |
+| [fill](https://github.com/ybg345/HackerRank/tree/master/30%20Days%20of%20Code)  | _Python 3_  |
 | [C](https://github.com/ybg345/HackerRank/tree/master/C)  | _C_, _C++_ | 
 | [Databases](https://github.com/ybg345/HackerRank/tree/master/Databases)  | _Markdown_  | 
 | [Linux Shell](https://github.com/ybg345/HackerRank/tree/master/Linux%20Shell)  | _Bash_  | 	
